@@ -21,8 +21,9 @@ module.exports = {
         body: ['Inter', 'sans-serif'],
       },
       fontSize: {
-        paragraph: '20px',
+        paragraph: '15px',
       },
+      
     },
   },
   plugins: [],
